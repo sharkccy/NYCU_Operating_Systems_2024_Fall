@@ -53,4 +53,4 @@ The program will run tests with varying worker thread counts (1..max) and produc
 
 # License / Redistribution
 
-- The author will only upload compiled executables for distribution. Contact the author to request access to the original source code and for permission before sharing it publicly.
+- - Contact the author to request access to the original source code.

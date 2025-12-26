@@ -48,4 +48,4 @@ Output: per-frame statistics (`Frame`, `Hit`, `Miss`, `Page fault ratio`, `Write
 
 # License / Redistribution
 
-- The author will only upload compiled executables for distribution. Contact the author to request access to the original source code and for permission before sharing it publicly.
+- - Contact the author to request access to the original source code.
